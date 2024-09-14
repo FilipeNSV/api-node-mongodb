@@ -43,7 +43,7 @@ To run the application, follow the steps below:
 
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/FilipeNSV/marked-stock-control
+   git clone https://github.com/FilipeNSV/api-node-mongodb.git
 
 2. **Navigate to the project directory:**
    ```sh
